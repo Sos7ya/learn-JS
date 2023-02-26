@@ -1,0 +1,14 @@
+"" + 1 + 0; // result = 10
+"" - 1 + 0; // result = -1
+true + false; // result = 1
+6 / "3"; // result = 2
+"2" * "3"; // result = 6
+4 + 5 + "px"; // result = "9px"
+"$" + 4 + 5; //result = "$45"
+"4" - 2; // result = 2
+"4px" - 2; //result = NaN
+" -9 " + 5; //result = " -9 5"
+" -9 " - 5; // result = -14
+null + 1; // result = 1
+undefined + 1; //result = NaN
+" \t \n" - 2; //result = -2
